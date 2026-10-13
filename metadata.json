@@ -1,0 +1,6 @@
+{
+  "name": "LinguaBridge",
+  "description": "Interactive A1 to B2 language learning engine with ContextShift narrative immersion, AudioCraft pitch shadowing, MorphoGrid syntax builder, and specialized Asian, Romance & Germanic modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
